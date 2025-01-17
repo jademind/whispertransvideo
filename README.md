@@ -1,6 +1,7 @@
 # WhisperTransVideo
 
-A tool for automatically generating and translating subtitles for videos using OpenAI's Whisper model.
+A tool that automatically transcribes videos, creates subtitles, translates them into different languages, and embeds them back into the video. It leverages state-of-the-art local AI models, ensuring privacy, zero costs, and full control over the transcription and translation process without relying on cloud services.
+
 
 ## Features
 
@@ -9,6 +10,7 @@ A tool for automatically generating and translating subtitles for videos using O
 - One-step translation to target language
 - Handles various video formats (mp4, mov, avi, mkv)
 - Interactive mode when run without parameters
+- Runs on your local machine
 
 ## Prerequisites
 

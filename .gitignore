@@ -17,10 +17,12 @@
 *_backup*
 backup/
 backups/
+sample.srt.backup
 
 # Pre-translation files
 pretranslation/
 *_pretranslated.*
+sample.srt.pretranslation
 
 # Python specific
 __pycache__/

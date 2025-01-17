@@ -1,7 +1,5 @@
-openai-whisper>=20231117
-torch>=2.0.0
-ffmpeg-python>=0.2.0
-transformers>=4.30.0
-sentencepiece>=0.1.99
-protobuf>=4.24.0
-tqdm>=4.65.0 
+openai-whisper
+torch
+transformers
+sacremoses
+ffmpeg-python 
